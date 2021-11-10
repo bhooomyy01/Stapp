@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136621920644",
+    "project_id": "aadhyainnovation-69046",
+    "storage_bucket": "aadhyainnovation-69046.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136621920644:android:1b1da64e9b9372dfa14dd1",
+        "android_client_info": {
+          "package_name": "com.example.stapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136621920644-3gok9qka080s0i4q19e56u8lb0blh62u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpVUOK3IF_NB616svx15hHWSYcZjof78g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136621920644-3gok9qka080s0i4q19e56u8lb0blh62u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
